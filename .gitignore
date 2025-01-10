@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+.next/
+
+# Environment files
+.env
+
+# Editor settings
+.vscode/
+
+# System files
+.DS_Store
+node_modules/
